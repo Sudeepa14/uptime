@@ -6,16 +6,18 @@
     "slug": "folia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 233,
-    "timeWeek": 210,
-    "timeMonth": 219,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 490,
+    "timeWeek": 277,
+    "timeMonth": 236,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "folia",
@@ -24,16 +26,18 @@
     "slug": "folia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 233,
-    "timeWeek": 210,
-    "timeMonth": 219,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 490,
+    "timeWeek": 277,
+    "timeMonth": 236,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "Wikipedia",
