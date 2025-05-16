@@ -4,10 +4,10 @@
     "url": "http://folia.com",
     "icon": "https://icons.duckduckgo.com/ip3/folia.com.ico",
     "slug": "folia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
@@ -15,17 +15,19 @@
     "timeWeek": 161,
     "timeMonth": 208,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-16": 1
+    }
   },
   {
     "name": "folia",
     "url": "http://folia.com",
     "icon": "https://icons.duckduckgo.com/ip3/folia.com.ico",
     "slug": "folia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
@@ -33,7 +35,9 @@
     "timeWeek": 161,
     "timeMonth": 208,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-16": 1
+    }
   },
   {
     "name": "Wikipedia",
