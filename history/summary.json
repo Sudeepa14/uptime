@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/folia.com.ico",
     "slug": "folia",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 151,
-    "timeWeek": 164,
-    "timeMonth": 208,
+    "timeDay": 167,
+    "timeWeek": 168,
+    "timeMonth": 206,
     "timeYear": 213,
-    "dailyMinutesDown": {
-      "2025-05-16": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "folia",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/folia.com.ico",
     "slug": "folia",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 151,
-    "timeWeek": 164,
-    "timeMonth": 208,
+    "timeDay": 167,
+    "timeWeek": 168,
+    "timeMonth": 206,
     "timeYear": 213,
-    "dailyMinutesDown": {
-      "2025-05-16": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -51,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 246,
-    "timeWeek": 81,
-    "timeMonth": 140,
+    "timeDay": 155,
+    "timeWeek": 97,
+    "timeMonth": 143,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -69,9 +65,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 304,
-    "timeDay": 376,
-    "timeWeek": 336,
-    "timeMonth": 315,
+    "timeDay": 300,
+    "timeWeek": 325,
+    "timeMonth": 310,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2025-05-11": 104,
