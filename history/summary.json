@@ -4,19 +4,19 @@
     "url": "http://folia.com",
     "icon": "https://icons.duckduckgo.com/ip3/folia.com.ico",
     "slug": "folia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 5377,
-    "timeWeek": 1217,
-    "timeMonth": 445,
+    "timeDay": 4085,
+    "timeWeek": 1154,
+    "timeMonth": 442,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-05-23": 0
+      "2025-05-23": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://folia.com",
     "icon": "https://icons.duckduckgo.com/ip3/folia.com.ico",
     "slug": "folia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 5377,
-    "timeWeek": 1217,
-    "timeMonth": 445,
+    "timeDay": 4085,
+    "timeWeek": 1154,
+    "timeMonth": 442,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-05-23": 0
+      "2025-05-23": 8
     }
   },
   {
